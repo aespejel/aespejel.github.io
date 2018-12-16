@@ -25,8 +25,6 @@ The list of [dependencies][github-pages-dependencies] of github pages
 
 
 
-
-
 [jekyll-gist]: https://gist.github.com/widdowquinn/f255783f826f358f5de97186131419a9
 [config-yml]: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 [github-pages-dependencies]: https://pages.github.com/versions/
