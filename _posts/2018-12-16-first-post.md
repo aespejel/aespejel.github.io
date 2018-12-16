@@ -8,13 +8,10 @@ And here we go!
 Setting up the place where i'll be able to mind-dump from time to time!
 This does not pretend to be a corporative blog or anything like this, but a site where i'll be able to recover my sanity :D
 
-Code snipet sample:
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Packages that I have needed in order to run this locally:
+{% highlight bash %}
+sudo apt install build_essentials ruby ruby-dev libcurl3
+sudo gem install bundler
 {% endhighlight %}
 
 Sample links:
