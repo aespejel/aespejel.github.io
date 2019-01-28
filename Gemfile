@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 3.8.5"
 gem "jekyll", "~> 3.7.4"
-#gem "github-pages", group: :jekyll_plugins
-gem "github-pages", 193, group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", 193, group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
