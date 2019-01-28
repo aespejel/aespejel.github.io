@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Alfredo Espejel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/aespejel_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sysadmin, SysDev, DevOps, cloud-something? What am I?"
   location         : "Madrid, Spain"
   email            :
