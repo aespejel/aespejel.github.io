@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Primer post!"
+excerpt: "Primer post: propósito y cómo usar Jekyll con el theme de minimal mistakes para hacer tu blog usando github pages"
 categories: blog
 tags: 
   - jekyll 
