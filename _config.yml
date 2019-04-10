@@ -24,9 +24,9 @@ title				: Alfredo's blog
 title_separator          	: "-"
 name				: Alfredo Espejel
 description			: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog personal tecnológico.
+  Mi refugio donde almacenar todas esas cosas que se me van a olvidar y muy probablemente voy a necesitar a corto o medio plazo.
+  Ahora mismo muy centrado en Kubernetes, GKE, Docker, contenedores y CI/CD, pero quién sabe qué nos depara el futuro!
 baseurl				: "" # the subpath of your site, e.g. /blog
 url				: "https://blog.aespejel.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository			: "aespejel/aespejel.github.io"
