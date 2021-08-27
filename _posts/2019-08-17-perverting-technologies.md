@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "No pervirtáis la tecnología!"
 excerpt: "En este post trato de explicar por qué no es bueno llevar las tecnologías a extremos para los que no han sido diseñadas, en parte, como recordatorio para mi yo del futuro"
-categories: buenas prácticas
+categories: buenas_prácticas
 tags: 
   - Cultura
   - Buenas prácticas
