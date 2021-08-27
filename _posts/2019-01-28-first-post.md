@@ -29,8 +29,8 @@ Esto lo aprendí por las malas en la web de [troubleshoting][jekyll-troubleshoot
 
 Ubuntu:
 {% highlight bash %}
-sudo apt install build_essentials ruby ruby-dev libcurl3
-gem install bundler
+sudo apt install build-essential ruby ruby-dev libcurl4
+sudo gem install bundler
 {% endhighlight %}
 Fedora:
 {% highlight bash %}
