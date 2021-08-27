@@ -30,7 +30,7 @@ Esto lo aprendí por las malas en la web de [troubleshoting][jekyll-troubleshoot
 Ubuntu:
 {% highlight bash %}
 sudo apt install build-essential ruby ruby-dev libcurl4
-gem install bundler
+sudo gem install bundler
 {% endhighlight %}
 Fedora:
 {% highlight bash %}
